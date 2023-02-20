@@ -1,0 +1,131 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Document</title>
+</head>
+
+<body>
+  <h1 class="visually-hidden">Google services</h1>
+  <ul class="grid">
+  </ul>
+</body>
+
+<script>
+  async function getJSON(path, callback) {
+    return callback(await fetch(path).then(r => r.json()));
+  }
+
+  getJSON('data.json', data => {
+    data.forEach(item => {
+      let el = `
+      <li class="grid__item">
+        <img height=68 class="grid__image" src="${item.url}" alt="${item.name}">
+        <h2 class="grid__heading"><a class="grid__link" href="${item.link}">${item.name}</a></h2>
+      </li>`;
+      console.log(item);
+      document.querySelector('.grid').insertAdjacentHTML('beforeend', el);
+    });
+  });
+
+</script>
+
+<style>
+  .grid {
+    display: grid;
+    list-style: none;
+    grid-template-columns: repeat(auto-fill, minmax(130px, 1fr));
+    gap: .5rem;
+    width: 100%;
+    max-width: 1200px;
+    margin: 0 auto;
+  }
+
+  .grid__item {
+    --card-border: .5rem;
+    align-items: center;
+    height: auto;
+    position: relative;
+    gap: 2rem;
+    padding-top: .5rem;
+    border-radius: var(--card-border);
+    text-align: center;
+  }
+
+  .grid__item:hover {
+    background-color: #f5f5f5;
+  }
+
+  .grid__item:hover>.grid__heading>.grid__link {
+    background-color: #f5f5f5;
+    -webkit-line-clamp: 3;
+    background-color: #f5f5f5;
+    margin-bottom: -4rem;
+    border-bottom: .5rem solid transparent;
+  }
+
+  .grid__image {
+    aspect-ratio: 1 / 1;
+    background-size: cover;
+    border-radius: .5rem;
+  }
+
+  .grid__heading {
+    text-align: center;
+    font-size: 1em;
+    min-height: 1.3rem;
+    padding-bottom: var(--card-border);
+  }
+
+  .grid__link {
+    letter-spacing: 1px;
+    text-decoration: none;
+    border-radius: var(--card-border);
+    color: white;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 400;
+    display: -webkit-box;
+    -webkit-box-orient: vertical;
+    -webkit-line-clamp: 2;
+    white-space: pre-wrap;
+    text-overflow: ellipsis;
+    overflow: hidden;
+    padding-inline: .5rem;
+    margin-bottom: -1rem;
+    overflow-wrap: break-word;
+    z-index: 9999;
+    color: black;
+  }
+
+  .grid__link:focus-visible {
+    outline: none;
+  }
+
+  .grid__link::before {
+    position: absolute;
+    inset: 0 0 0 0;
+    content: "";
+  }
+
+  .grid__link:focus::before {
+    outline: 2px solid deepskyblue;
+    border-radius: var(--card-border);
+    outline-offset: 5px;
+    border-bottom: .5rem solid transparent;
+  }
+
+  .visually-hidden {
+    position: absolute !important;
+    height: 1px;
+    width: 1px;
+    overflow: hidden;
+    clip: rect(1px, 1px, 1px, 1px);
+  }
+
+</style>
+
+
+</html>
