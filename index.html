@@ -64,10 +64,9 @@
     background-color: #e7f0ff;
   }
 
-  write vscode keybinding for creating new tab with cmd+t .grid__item:hover>.grid__heading>.grid__link {
-    background-color: #f5f5f5;
+  .grid__item:hover>.grid__heading>.grid__link {
     -webkit-line-clamp: 3;
-    background-color: #f5f5f5;
+    background-color: #e7f0ff;
     margin-bottom: -4rem;
     border-bottom: .5rem solid transparent;
   }
@@ -84,7 +83,7 @@
     text-align: center;
     font-size: .8em;
     font-size: clamp(0.6rem, 1vw + 0.25em, .8rem);
-    min-height: 1.3rem;
+    min-height: 2rem;
     padding-bottom: var(--card-border);
   }
 
@@ -97,7 +96,6 @@
     display: -webkit-box;
     -webkit-box-orient: vertical;
     -webkit-line-clamp: 2;
-    white-space: pre-wrap;
     text-overflow: ellipsis;
     overflow: hidden;
     padding-inline: .5rem;
@@ -118,8 +116,8 @@
   }
 
   .grid__link:focus::before {
-    outline: 2px solid deepskyblue;
-    border-radius: var(--card-border);
+    box-shadow: 0 0 0 2px deepskyblue;
+    border-radius: .5rem;
     outline-offset: 5px;
     border-bottom: .5rem solid transparent;
   }
@@ -138,7 +136,11 @@
     }
 
     .grid__item:hover {
-      background: #1a1a1a;
+      background-color: #1a1a1a;
+    }
+
+    .grid__item:hover>.grid__heading>.grid__link {
+      background-color: #1a1a1a;
     }
 
     .grid__link {
