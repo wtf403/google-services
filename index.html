@@ -5,7 +5,8 @@
   <meta charset="UTF-8" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Document</title>
+  <title>Google services</title>
+  <link href="reset.css" rel="stylesheet">
 </head>
 
 <body>
@@ -23,12 +24,13 @@
     data.forEach(item => {
       let el = `
       <li class="grid__item">
-        <img height=68 class="grid__image" src="${item.url}" alt="${item.name}">
+        <img height=68 width=68 class="grid__image" src="${item.url}" alt="${item.name}">
         <h2 class="grid__heading"><a class="grid__link" href="${item.link}">${item.name}</a></h2>
       </li>`;
       console.log(item);
       document.querySelector('.grid').insertAdjacentHTML('beforeend', el);
     });
+    pre
   });
 
 </script>
@@ -37,11 +39,14 @@
   .grid {
     display: grid;
     list-style: none;
-    grid-template-columns: repeat(auto-fill, minmax(130px, 1fr));
+    grid-template-columns: repeat(auto-fill, minmax(110px, 1fr));
+    grid-template-columns: repeat(auto-fill, minmax(clamp(3.438rem, 8.3vw + 1.5rem, 6.875rem), 1fr));
     gap: .5rem;
     width: 100%;
     max-width: 1200px;
     margin: 0 auto;
+    -webkit-padding-start: 0px;
+    padding: 40px;
   }
 
   .grid__item {
@@ -56,10 +61,10 @@
   }
 
   .grid__item:hover {
-    background-color: #f5f5f5;
+    background-color: #e7f0ff;
   }
 
-  .grid__item:hover>.grid__heading>.grid__link {
+  write vscode keybinding for creating new tab with cmd+t .grid__item:hover>.grid__heading>.grid__link {
     background-color: #f5f5f5;
     -webkit-line-clamp: 3;
     background-color: #f5f5f5;
@@ -69,13 +74,16 @@
 
   .grid__image {
     aspect-ratio: 1 / 1;
-    background-size: cover;
+    object-fit: contain;
     border-radius: .5rem;
+    display: inline;
+    margin-inline: .5rem;
   }
 
   .grid__heading {
     text-align: center;
-    font-size: 1em;
+    font-size: .8em;
+    font-size: clamp(0.6rem, 1vw + 0.25em, .8rem);
     min-height: 1.3rem;
     padding-bottom: var(--card-border);
   }
@@ -84,7 +92,6 @@
     letter-spacing: 1px;
     text-decoration: none;
     border-radius: var(--card-border);
-    color: white;
     font-family: 'Open Sans', sans-serif;
     font-weight: 400;
     display: -webkit-box;
@@ -123,6 +130,29 @@
     width: 1px;
     overflow: hidden;
     clip: rect(1px, 1px, 1px, 1px);
+  }
+
+  @media (prefers-color-scheme: dark) {
+    body {
+      background-color: black;
+    }
+
+    .grid__item:hover {
+      background: #1a1a1a;
+    }
+
+    .grid__link {
+      color: white;
+    }
+
+  }
+
+  @media (max-width: 720px) {
+    .grid {
+      padding: 20px;
+      gap: 10px;
+      font-size: .5em;
+    }
   }
 
 </style>
