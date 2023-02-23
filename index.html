@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="en">
 
 <head>
@@ -7,6 +6,8 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>Google services</title>
   <link href="reset.css" rel="stylesheet">
+  <link rel="shortcut icon" type="image/x-icon"
+    href="https://www.gstatic.com/images/branding/googleg/2x/googleg_standard_color_120dp.png">
 </head>
 
 <body>
@@ -20,28 +21,30 @@
     return callback(await fetch(path).then(r => r.json()));
   }
 
+
   getJSON('data.json', data => {
     data.forEach(item => {
       let el = `
-      <li class="grid__item">
+      <a href="${item.link}" class="grid__item">
         <img height=68 width=68 class="grid__image" src="${item.url}" alt="${item.name}">
-        <h2 class="grid__heading"><a class="grid__link" href="${item.link}">${item.name}</a></h2>
-      </li>`;
+        <h2 class="grid__heading" >${item.name}</h2>
+      </a>`;
       console.log(item);
       document.querySelector('.grid').insertAdjacentHTML('beforeend', el);
     });
-    pre
   });
 
 </script>
 
 <style>
+  @import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;500&display=swap');
+
   .grid {
     display: grid;
     list-style: none;
     grid-template-columns: repeat(auto-fill, minmax(110px, 1fr));
     grid-template-columns: repeat(auto-fill, minmax(clamp(3.438rem, 8.3vw + 1.5rem, 6.875rem), 1fr));
-    gap: .5rem;
+    gap: 2rem .5rem;
     width: 100%;
     max-width: 1200px;
     margin: 0 auto;
@@ -50,94 +53,83 @@
   }
 
   .grid__item {
-    --card-border: .5rem;
     align-items: center;
     height: auto;
     position: relative;
-    gap: 2rem;
+    gap: 1rem;
     padding-top: .5rem;
     border-radius: var(--card-border);
+    outline-width: 2px;
+    outline-offset: 2px;
     text-align: center;
+    text-decoration: none;
+    padding-block: .8rem;
   }
 
+  .grid__heading {
+    text-align: center;
+    border-radius: 0 0 var(--card-border) var(--card-border);
+    border-bottom-color: black !important;
+    border-bottom-width: var(--card-border);
+    border-bottom-style: solid;
+    font-size: .8em;
+    min-height: 2em;
+    letter-spacing: 1px;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: var(--font-weight);
+    display: -webkit-box;
+    -webkit-box-orient: vertical;
+    -webkit-line-clamp: 1;
+    text-overflow: ellipsis;
+    overflow: hidden;
+    padding-inline: .5rem;
+    margin-bottom: 0rem;
+    color: var(--text-color);
+  }
+
+
   .grid__item:hover {
-    background-color: #e7f0ff;
+    background-color: var(--hover-color);
     z-index: 9999;
   }
 
-  .grid__item:hover>.grid__heading>.grid__link {
-    -webkit-line-clamp: 3;
-    background-color: #e7f0ff;
-    margin-bottom: -4rem;
-    border-bottom: .5rem solid transparent;
+  .grid__item:focus-within {
+    background-color: var(--focus-color);
+    border-radius: var(--card-border);
+    z-index: 10000;
   }
+
+
+  .grid__item:hover>.grid__heading {
+    background-color: var(--hover-color);
+    -webkit-line-clamp: 3;
+    border-bottom: var(--card-border) solid var(--hover-color);
+    margin-bottom: -3rem;
+  }
+
+  .grid__item:focus-within>.grid__heading {
+    -webkit-line-clamp: 3;
+    background-color: var(--focus-color);
+    border-bottom-color: var(--focus-color);
+    border-bottom-width: var(--card-border);
+    border-bottom-style: solid;
+    margin-bottom: -3rem;
+  }
+
 
   .grid__image {
     aspect-ratio: 1 / 1;
     object-fit: contain;
     border-radius: .5rem;
+    padding-bottom: 1rem;
     display: inline;
     margin-inline: .5rem;
   }
 
-  .grid__heading {
-    text-align: center;
-    font-size: .8em;
-    font-size: clamp(0.6rem, 1vw + 0.25em, .8rem);
-    min-height: 2rem;
-    padding-bottom: var(--card-border);
-  }
 
-  .grid__link {
-    letter-spacing: 1px;
-    text-decoration: none;
-    border-radius: var(--card-border);
-    font-family: 'Open Sans', sans-serif;
-    font-weight: 400;
-    display: -webkit-box;
-    -webkit-box-orient: vertical;
-    -webkit-line-clamp: 2;
-    text-overflow: ellipsis;
-    overflow: hidden;
-    padding-inline: .5rem;
-    margin-bottom: -1rem;
-    overflow-wrap: break-word;
-    color: black;
-  }
 
-  .grid__link:focus-visible {
+  .grid__heading:focus-visible {
     outline: none;
-  }
-
-  .grid__heading::before {
-    position: absolute;
-    inset: 0 0 0 0;
-    content: "";
-  }
-
-  .grid__link::after {
-    position: absolute;
-    bottom: 0;
-    left: 0;
-    right: 0;
-    height: 2rem;
-    content: "";
-    margin-bottom: -2rem;
-  }
-
-  .grid__link:focus::after {
-    display: block;
-    box-shadow: 0 0 0 2px red;
-    border-radius: 0 0 .5rem .5rem;
-    outline-offset: 5px;
-    border-bottom: .5rem solid transparent;
-  }
-
-  .grid__heading:has(.grid__link:focus)::before {
-    box-shadow: 0 0 0 5px deepskyblue;
-    border-radius: .5rem;
-    outline-offset: 5px;
-    border-bottom: .5rem solid transparent;
   }
 
   .visually-hidden {
@@ -148,33 +140,43 @@
     clip: rect(1px, 1px, 1px, 1px);
   }
 
+
+  @media screen and (max-width: 720px) {
+    .grid {
+      padding: 20px;
+      gap: 10px;
+      font-size: .5em;
+    }
+  }
+
+  html {
+    --card-border: .5rem;
+    --focus-color: mintcream;
+    --hover-color: #e7f1ff;
+    --background-color: white;
+    --text-color: black;
+    --font-weight: 500;
+    background-color: var(--background-color);
+    color: var(--text-color);
+  }
+
   @media (prefers-color-scheme: dark) {
-    body {
-      background-color: black;
+    html {
+      --focus-color: gray;
+      --hover-color: #1a1a1a;
+      --background-color: black;
+      --text-color: white;
+      --font-weight: 400;
     }
+  }
 
-    .grid__item:hover {
-      background-color: #1a1a1a;
+  /* wired Safari browser styles */
+  @media screen {
+    .grid__heading {
+      border-bottom-color: transparent !important;
     }
-
-    .grid__item:hover>.grid__heading>.grid__link {
-      background-color: #1a1a1a;
-    }
-
-    .grid__link {
-      color: white;
-    }
-
-
-    @media (max-width: 720px) {
-      .grid {
-        padding: 20px;
-        gap: 10px;
-        font-size: .5em;
-      }
-    }
+  }
 
 </style>
-
 
 </html>
