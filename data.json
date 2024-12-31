@@ -1,43 +1,18 @@
 [
   {
-    "name": "Android Lorem ipsum dolor sit amet",
-    "url": "https://lh3.googleusercontent.com/Fj7BDsllcpNT8ZZm0IHo698tYteLYqoy1i2Sq_16wJhkbcrltBXRbdyzT_XRYHdsbwcv3MLcvO8Cey0b1Zhy2ywD9NvnMd43IYs0Aw=h120",
-    "link": "https://www.android.com/intl/en_us/"
+    "name": "Search",
+    "url": "https://lh3.googleusercontent.com/_RS8nTX8HLPW-dDr374dEdQTaYn-7LI8HVVk0INaAmk7t8MYZKDssvGnep-GwPR94LJPxqq6UDnbm4tonioTpkl4Kqr6-k-670teZA=h120",
+    "link": "https://www.google.com/search/about/"
   },
   {
-    "name": "Android Auto",
-    "url": "https://lh3.googleusercontent.com/3Vr1H8EL1F2w2g35zmQkqnbbqfM8e28GxuaTXxkovnYV7ldiiKJVqlnFRlIOfurcfZ7XDVJIJ5ET51yXw8_fJkXIzakq30XzVzI6Og=h120",
-    "link": "https://www.android.com/intl/en_us/auto/"
+    "name": "YouTube",
+    "url": "https://lh3.googleusercontent.com/I95wjYii8vhFSSx-aSYdh2hPAMjgZkA9yjarSQoOd98COwOxkAVn_dulBcTcfbsa7Limy6IKX6G95ep6OB6y2yMLMiX0YEqFx3KQHQ=h120",
+    "link": "https://www.youtube.com/yt/about/"
   },
   {
-    "name": "Android TV",
-    "url": "https://user-images.githubusercontent.com/73958047/220166496-ef798bfe-b8fc-4a8f-abce-3e1ef9797aee.png",
-    "link": "https://www.android.com/tv/"
-  },
-  {
-    "name": "Calendar",
-    "url": "https://lh3.googleusercontent.com/DaaQa-Y-b3_IAhu6SBFb2vRl8PFR5iuCLwLszc16_OTlLrEFvFF9P4CS0ui-414nG9016ul3dQD1R3mHtmMx4P1bIA-zRXuPpFN4yw=h120",
-    "link": "https://www.google.com/calendar/about/"
-  },
-  {
-    "name": "Ads",
-    "url": "https://lh3.googleusercontent.com/mXJcrB99dv3D2R3626qv23yNzcp64hKW1n7cx78DQmybiBB-radVYvRguIs-lfQz1oYh72Oq_5Tk51U6fAqzzJb95vww5cyi79Wk0g=h120",
-    "link": "https://ads.google.com/intl/en_us/getstarted/"
-  },
-  {
-    "name": "Podcasts",
-    "url": "https://lh3.googleusercontent.com/vnSr97Bu2sI2_h334BHmEn1zTPrtv0hM9MLn3YxkN6JVzmir_VH62GiPIKfwtPBTOQ8xH0XNI40xfPAYbwbJEU-1jG09ovlU0f4S1Q=h120",
-    "link": "https://podcasts.google.com/"
-  },
-  {
-    "name": "Sheets",
-    "url": "https://lh3.googleusercontent.com/tvQvvubDZ2r6Ou8zxkVzkIvddC1snCCq4xD4dhafjAJhHLDsEvHDEUms9RyVH_g-nI_8yTyeahZshZqwMV0NdHxD-K9v-Zbm4DF2vds=h120",
-    "link": "https://www.google.com/sheets/about/?utm_source=gaboutpage&utm_medium=sheetslink&utm_campaign=gabout"
-  },
-  {
-    "name": "Cars with built&hybull;in",
-    "url": "https://lh3.googleusercontent.com/X7G-hd59XdxQgAu0Pg3jUf5LoAQQqSWjyKZSk0lvDBnRdboJB3f6rLhL9PSJLNy-ONa8vUba3hHAB3dmf35jpCuWWnabyN0BBDYYoXLZf1sMNPthFg=h120",
-    "link": "https://built-in.google/cars/"
+    "name": "Android",
+    "url": "https://lh3.googleusercontent.com/OSQqNbZm7pYKt3P0rSr0WN51Qh3NCo8BSJ37es08pTyoHjH9IMIEdw31GxuCp_qXFpqvJwXqeLRbZdrOvv-kFB-rTaHHfQj0_fDE=h120",
+    "link": "https://enterprise.google.com/android/"
   },
   {
     "name": "Chrome",
@@ -45,34 +20,19 @@
     "link": "https://www.google.com/chrome/"
   },
   {
-    "name": "Chrome Enterprise",
-    "url": "https://lh3.googleusercontent.com/osfLtqeBdEJUR4Rc-zmj4r5eqSd0GCJaB8wihnbgYfx_UBKhS1PMKwZlWXw6FqtjLktNqWJTcpDBMp5boZlSD2nkjeOloEA6VhJKlg=h120",
-    "link": "https://chrome.google.com/webstore/category/apps"
+    "name": "Gmail",
+    "url": "https://lh3.googleusercontent.com/mK6uPlO8TKCVSU8TsniV0pOUB0SSETbAPB_QUaaJ96qbBdZwaygmzf_bWRTIHmCNKgJ2hhn86KSfEAHvHN-P2EjFWAxPd77ob_2k8ew=h120",
+    "link": "https://www.gmail.com/intl/en_us/mail/help/about.html"
   },
   {
-    "name": "Chromebook",
-    "url": "https://lh3.googleusercontent.com/Ucxl6g9AKLX3XmK7an_99LzivIJsXn5cvQdIMM_g4nNFZdULnGa4TH45WVlFu3vKd_c41R28NdjDzCEWgAwb5wjONbIPR4agLFUO1w=h120",
-    "link": "https://www.google.com/chromebook/"
+    "name": "Maps",
+    "url": "https://lh3.googleusercontent.com/9NuRdiRepVI3n1txfg7Ky2wWzB3DvXkWABXeFMSn2tzDYYkv8T_RMA9R17fWi0ziUDIDTVJx0JruCzOev37c4dkK9Wrgkeyam3pM8lI=h120",
+    "link": "https://www.google.com/maps/about/"
   },
   {
-    "name": "Chromecast",
-    "url": "https://lh3.googleusercontent.com/IW5qFdrQ464i6bDzhjV2xJvvGDsrvssd3hqgNC-Y0VDwnriCuvrzsftsfCEBzXg37G0QJAfGy9te8w8v2jebrajiiviDGB6_y1G2=h120",
-    "link": "https://store.google.com/product/chromecast"
-  },
-  {
-    "name": "Contacts",
-    "url": "https://lh3.googleusercontent.com/uPpZapQO32gCKWztePKdTRzpg7rCr4_40vlgIAslU9JyF135ZdGvC33DbzA2mdmOTNK6qgbu7xWfKkR9rfJUwaK20saGLsFW9yw014GdOKBVEN9zow=h120",
-    "link": "https://play.google.com/store/apps/details?id=com.google.android.contacts#_ga=2.64729958.83130407.1517253748-1400634622.1515717381"
-  },
-  {
-    "name": "Digital Wellbeing",
-    "url": "https://lh3.googleusercontent.com/Gv2bjAdDXiaD0ZvvA3ppmC905aIYb4EAVLUkRbYSUvHWepf6G9G4-k_9fNVogA7bmc8qjr9z8V5bLcfo8iBR7SKqaH8kBn3P1hi_tA=h120",
-    "link": "https://play.google.com/store/apps/details?id=com.google.android.apps.wellbeing&hl=en_US"
-  },
-  {
-    "name": "Docs",
-    "url": "https://lh3.googleusercontent.com/Ac9zapU8rN332VMysmJIaTk1Nk-3IGzqCwFS-6PwDFUFpEzEBKPTGWfIFN4BXL3eHP5s1DJP2tyh8NTS8_LjvXHzpkyZC2fu58Ov=h120",
-    "link": "https://www.google.com/docs/about/?utm_source=gaboutpage&utm_medium=docslink&utm_campaign=gabout"
+    "name": "Play",
+    "url": "https://lh3.googleusercontent.com/vWJNEFxN3WY5PYAYjwZ9ycEXMCCiB8EbcFXZxfSv5xkKLw67C2J5qXJTBL9KSPldWmLpVMnucrsDBmPlrf9tMiEJpYNZNcTw_ymlxgc=h120",
+    "link": "https://play.google.com/store?hl=en"
   },
   {
     "name": "Drive",
@@ -80,44 +40,39 @@
     "link": "https://www.google.com/drive/"
   },
   {
-    "name": "Earth",
-    "url": "https://lh3.googleusercontent.com/HWgUyUNqdsifoczBOT-DYy-hV_ldW-cwWkz3tvlY0eQysaY1ra4D1bkfE-0BVFUlk5wComQdca8g-fwiPcOhdMHoMjqiiNh2TD2b=h120",
-    "link": "https://www.google.com/earth/"
+    "name": "Photos",
+    "url": "https://lh3.googleusercontent.com/RwVe2Cm1EjeDmYhdTzr179G0ovq_PCxgPzQ92PO-YxTBEFTHWh0L6Ev8FFDWRgRGrE81vwn95tyg9Ey189OO4kllhhpLAMIsGFZ-UKA=h120",
+    "link": "https://www.google.com/photos/about"
   },
   {
-    "name": "Exposure Notifications",
-    "url": "https://lh3.googleusercontent.com/BAdl6REglGY2I2v6M3ETITNCpgS4Y8ac0hJtEQh6o8ggV776HEb3Lmw7REmTQmTon5B8s0dB-tHBYwuosM1V0MwXR5tMWChtAOwu-hOQWQTn7xWIUw=h120",
-    "link": "https://www.google.com/covid19/exposurenotifications/"
+    "name": "Translate",
+    "url": "https://lh3.googleusercontent.com/vNgpLTvnDUr6-QM8s4OuuESGDXs_brbGoPR-7vfwdxQI7M4MVFV0CC_Hil4qRDSp4P66ik85fdv09jKn89kDAJVknIbd6wkl0zGQJQ=h120",
+    "link": "https://translate.google.com/about"
   },
   {
-    "name": "Finance",
-    "url": "https://lh3.googleusercontent.com/v58NX5Yjsfo7e9kmvZYz-UpgxiBwecURTpNGU7dQ9CDZLnQaxf5dKsWQDUPxO91gZX-_BGEGd-HvLLXIjrzfOQw-NrQfqlxKLEFF1g=h120",
-    "link": "https://www.google.com/finance"
+    "name": "Docs",
+    "url": "https://lh3.googleusercontent.com/Ac9zapU8rN332VMysmJIaTk1Nk-3IGzqCwFS-6PwDFUFpEzEBKPTGWfIFN4BXL3eHP5s1DJP2tyh8NTS8_LjvXHzpkyZC2fu58Ov=h120",
+    "link": "https://www.google.com/docs/about/?utm_source=gaboutpage&utm_medium=docslink&utm_campaign=gabout"
   },
   {
-    "name": "Forms",
-    "url": "https://lh3.googleusercontent.com/p5lVJAicHuI6Ra6jtpYimNt53JZQNCcN06a-Q4fUaNVFo3cjVisZMY_UwBTg5fv2MUkrbwbfTw70N9-bbTfejp9S8rUNadIhWiqh=h120",
-    "link": "https://www.google.com/forms/about/?utm_source=gaboutpage&utm_medium=formslink&utm_campaign=gabout"
+    "name": "Calendar",
+    "url": "https://lh3.googleusercontent.com/DaaQa-Y-b3_IAhu6SBFb2vRl8PFR5iuCLwLszc16_OTlLrEFvFF9P4CS0ui-414nG9016ul3dQD1R3mHtmMx4P1bIA-zRXuPpFN4yw=h120",
+    "link": "https://www.google.com/calendar/about/"
   },
   {
-    "name": "Gboard",
-    "url": "https://lh3.googleusercontent.com/9ks6e2i7ubrVUEkBwpoJeXTceixbWT3ppLdca04jQg6VPMqXiz6B8KEeczJhnRWmjR453_UREmwtS2jP8-yNq-pU5cEDTbEU6Nqb=h120",
-    "link": "https://play.google.com/store/apps/details?id=com.google.android.inputmethod.latin"
+    "name": "Sheets",
+    "url": "https://lh3.googleusercontent.com/tvQvvubDZ2r6Ou8zxkVzkIvddC1snCCq4xD4dhafjAJhHLDsEvHDEUms9RyVH_g-nI_8yTyeahZshZqwMV0NdHxD-K9v-Zbm4DF2vds=h120",
+    "link": "https://www.google.com/sheets/about/?utm_source=gaboutpage&utm_medium=sheetslink&utm_campaign=gabout"
   },
   {
-    "name": "Gmail",
-    "url": "https://lh3.googleusercontent.com/mK6uPlO8TKCVSU8TsniV0pOUB0SSETbAPB_QUaaJ96qbBdZwaygmzf_bWRTIHmCNKgJ2hhn86KSfEAHvHN-P2EjFWAxPd77ob_2k8ew=h120",
-    "link": "https://www.gmail.com/intl/en_us/mail/help/about.html"
+    "name": "Slides",
+    "url": "https://lh3.googleusercontent.com/aD5GNhlaU2d70gmSy5ioL1dMSUZN9cHDWPLkIBLhCsJ-BgcGUm-PD6o8XExZcx1i2iZV6PH0P8v3ceg0x7Tzd_OZ5FV0nXs5mX15sgA=h120",
+    "link": "https://www.google.com/slides/about/?utm_source=gaboutpage&utm_medium=slideslink&utm_campaign=gabout"
   },
   {
-    "name": "Alerts",
-    "url": "https://lh3.googleusercontent.com/XfxlbB7Imi28_w277XeVC0u8Yngn8e1bQxhd6YK2snOdqt_uiwripgSEl5VNxgS2cJP2kf0dHv6LfSq8AG6YeJf9cpu1BE1kP36R=h120",
-    "link": "https://www.google.com/alerts"
-  },
-  {
-    "name": "Arts & Culture",
-    "url": "https://lh3.googleusercontent.com/yfNHOIqQb-_BbTsGZle4fmncMyM2kTjYQzub_Hucf27LCQPNwJiqiOMr39an6X_yB3gCKVExXGgtYm1morm8jkXY53W8h75Z0nUepg=h120",
-    "link": "https://artsandculture.google.com/?utm_medium=referral&utm_source=about.google"
+    "name": "Meet",
+    "url": "https://lh3.googleusercontent.com/5CsRqfMEP1Rv-PPv9G4962lyEuvb4roSLJHJQWPbmCa51AmvynfoGfoKsKiS87QhX07xQMZAeLp8qoSy7CjVZkXJ1WapQiJkroCeJw=h120",
+    "link": "https://gsuite.google.com/products/meet/"
   },
   {
     "name": "Assistant",
@@ -125,14 +80,39 @@
     "link": "https://assistant.google.com/business/"
   },
   {
-    "name": "Authenti&shy;cator",
-    "url": "https://lh3.googleusercontent.com/7j1-9AjGTjyFcEDU5lJw2BpZNYWNKgkxegHVv012Pm5OPBratN5ZsNVtpILRwXqE5Givogcj2VMswYdKR1dKvLvo2EQFSM0p7yTxYw=h120",
-    "link": "https://play.google.com/store/apps/details?id=com.google.android.apps.authenticator2"
+    "name": "Keep",
+    "url": "https://lh3.googleusercontent.com/9TzWtxtT-9Vrlwa8SXTSKhfl91Ndy4hU-1uLE9-hFsVSHARAOlFEdFExVR4QCegJ-KUBTSlJm3DZY6g31sbVrUT_HfxQvX_7WgLp=h120",
+    "link": "https://www.google.com/keep/"
   },
   {
-    "name": "Chat",
-    "url": "https://lh3.googleusercontent.com/z3dgQsXgGqfadzIUmpGI_ppolUy7H6fgqIbtW_qzLXcBww0nOby8TEE3e_fW84Qa7zeAwe339f5VLkqRD6jk7Z9sEaVh5Y_yaPG9nw=h120",
-    "link": "https://gsuite.google.com/products/chat/"
+    "name": "Ads",
+    "url": "https://lh3.googleusercontent.com/mXJcrB99dv3D2R3626qv23yNzcp64hKW1n7cx78DQmybiBB-radVYvRguIs-lfQz1oYh72Oq_5Tk51U6fAqzzJb95vww5cyi79Wk0g=h120",
+    "link": "https://ads.google.com/intl/en_us/getstarted/"
+  },
+  {
+    "name": "Analytics",
+    "url": "https://lh3.googleusercontent.com/oLcLMz42MUjK9Iv4M4YSOfBIHcxUh9dck3PN8kT8FR_z9_mUlWzyf4JHqPavPsKHJ7FR2rlGZf51vgEv1k5i0QQai4_J0ffYkIFbaJA=h120",
+    "link": "https://www.google.com/analytics/?utm_medium=referral-internal&utm_source=google-products&utm_campaign=product-cross-promo&utm_content=analytics-card"
+  },
+  {
+    "name": "AdSense",
+    "url": "https://lh3.googleusercontent.com/kSVhJx6xNAhqot_OjnzSAp8kyKtL9nW65nqObijdjYcNfqDn4bLx-1g_1h4rz0maXRwJp6K4AEDCQi8dOg_tn_Y80R3NjNXbUN6Hag=h120",
+    "link": "https://www.google.com/adsense/start/?utm_source=internal&utm_medium=et&utm_campaign=app_switcher_ev_mr&utm_content=learn_more"
+  },
+  {
+    "name": "AdMob",
+    "url": "https://lh3.googleusercontent.com/6cr6PdE9s0J1ovFNm38uf-dwcOP--68QMWey603BCUah-QcO0gL0TvyqmTBYIgNnJfk8AEgISH_xpw_zd8FNao0jA14Q5MQ7p-eeIto=h120",
+    "link": "https://www.google.com/admob/?utm_source=internal&utm_medium=et&utm_term=goo.gl%2FPZaclC&utm_content=midpage&utm_campaign=googlehome%26producticon"
+  },
+  {
+    "name": "Blogger",
+    "url": "https://lh3.googleusercontent.com/JtYUq9HfkkOryxudgp34oqI8qFu9a6mmL64OXjcDX7mfEwcX_pxmTdurvxssofY4swTY2c_M1Kk5o1a863CGTiBZkxxuYXfjiNgz=h120",
+    "link": "https://www.blogger.com/features"
+  },
+  {
+    "name": "Finance",
+    "url": "https://lh3.googleusercontent.com/v58NX5Yjsfo7e9kmvZYz-UpgxiBwecURTpNGU7dQ9CDZLnQaxf5dKsWQDUPxO91gZX-_BGEGd-HvLLXIjrzfOQw-NrQfqlxKLEFF1g=h120",
+    "link": "https://www.google.com/finance"
   },
   {
     "name": "Classroom",
@@ -140,9 +120,14 @@
     "link": "https://edu.google.com/products/classroom/?modal_active=none#%2Fready-to-go"
   },
   {
-    "name": "Expeditions",
-    "url": "https://lh3.googleusercontent.com/TVNK8r0QEiNhXwfjVlziAqFcBQPkuPHKyilz6atnzslwMho1no8n4EJV30tOT0T6y3RXrmCzyiNd74HSYkJPsAk4545WWBxBZgoPxg=h120",
-    "link": "https://www.google.co.in/edu/expeditions/"
+    "name": "Earth",
+    "url": "https://lh3.googleusercontent.com/HWgUyUNqdsifoczBOT-DYy-hV_ldW-cwWkz3tvlY0eQysaY1ra4D1bkfE-0BVFUlk5wComQdca8g-fwiPcOhdMHoMjqiiNh2TD2b=h120",
+    "link": "https://www.google.com/earth/"
+  },
+  {
+    "name": "Authenti&shy;cator",
+    "url": "https://lh3.googleusercontent.com/7j1-9AjGTjyFcEDU5lJw2BpZNYWNKgkxegHVv012Pm5OPBratN5ZsNVtpILRwXqE5Givogcj2VMswYdKR1dKvLvo2EQFSM0p7yTxYw=h120",
+    "link": "https://play.google.com/store/apps/details?id=com.google.android.apps.authenticator2"
   },
   {
     "name": "Family Link",
@@ -150,9 +135,164 @@
     "link": "https://families.google.com/familylink/"
   },
   {
+    "name": "Fit",
+    "url": "https://user-images.githubusercontent.com/73958047/220166968-f7df7bd0-5a15-4085-8ccb-150e1b66ef29.png",
+    "link": "https://play.google.com/store/apps/details?id=com.google.android.apps.fitness&hl=en"
+  },
+  {
+    "name": "Waze",
+    "url": "https://lh3.googleusercontent.com/ra4Ks1fsGsLSlzWoAU-9Ls2V5vEFCsA9thbtIkCHNFYeLC-ver57N4-GCGFZ-GBGw6uQkYPkvobF7dzM7udYmcTs4wfDTljzskEZAQ=h120",
+    "link": "https://www.waze.com/"
+  },
+  {
+    "name": "Nest",
+    "url": "https://lh3.googleusercontent.com/WdC-o7ZcZL5WALPSmfUC8H4oYhlhqm1DV45CtHqV06DTRR0rE_P9JXi-J2KXLd9CTyHt_t3ehUm1o_AMltgfAGbvQDku8jsZt0kBSA=h120",
+    "link": "https://store.google.com/category/connected_home"
+  },
+  {
+    "name": "Pay",
+    "url": "https://lh3.googleusercontent.com/yemTWtzfavZZqaWs0_ijOcSrLtp93cAfiJA4HqGSpJNYBxe13WWQxeqV7xt7Bdf34Nug2nw2z-a4T85pXURHj8tcOPFh1-l7BvYANqrAXd7zHVQ93x0=h120",
+    "link": "https://pay.google.com/about/"
+  },
+  {
+    "name": "Voice",
+    "url": "https://lh3.googleusercontent.com/sfQ-WzgiZ1asQ0K88_k8UG53n8u4ERdLJsZI-lTyHmL_p2f4ViSo6g10vYrjn34HR6sfjZGvs6xpRncjw4PT9u9iD8tC4CTDBIT4sD4=h120",
+    "link": "https://voice.google.com/"
+  },
+  {
     "name": "Fi",
     "url": "https://lh3.googleusercontent.com/gi7EU_u6IiuIRSxunfy5LLqsEJrC08L12aufZc3rP_w8hD8ouiVW89vfe7pTQrSsLXQYyQvnlhBfarK9Ul33ccQOSqKgK3i6iyArwg=h120",
     "link": "https://fi.google.com/about/"
+  },
+  {
+    "name": "Pixel",
+    "url": "https://lh3.googleusercontent.com/kroer1kpwSe3j-lIfPnE7Q3MVaCoJVF8atjdh0VtGDWCz2ulLejVsDh2k6a6VUgpUFQ8qRMHMEX7bsr2jTrLXhZR_ETbqILDf-qfkk0=h120",
+    "link": "https://store.google.com/category/phones"
+  },
+  {
+    "name": "Pixel Buds",
+    "url": "https://lh3.googleusercontent.com/23ispX_lvsTfMdqVu6ra84IGV85IwhGPQyogx4AOuECIOQYVFewlJ0p4XkFbUoAJXDlc4LwopHv1SNEslf1B4XCDZg0P-85zw3DQ=h120",
+    "link": "https://store.google.com/product/pixel_buds"
+  },
+  {
+    "name": "Pixelbook",
+    "url": "https://lh3.googleusercontent.com/SP5F8XlkxjIfM3uEu47BolKEBwkqWrOfyvwywHut48p0AZgedzyhcoevSaJCEBUJNXvy7dplTwI3s6dizxE1lNXFa-RkpU9nkIAmnSU=h120",
+    "link": "https://store.google.com/category/laptops_tablets"
+  },
+  {
+    "name": "Android TV",
+    "url": "https://user-images.githubusercontent.com/73958047/220166496-ef798bfe-b8fc-4a8f-abce-3e1ef9797aee.png",
+    "link": "https://www.android.com/tv/"
+  },
+  {
+    "name": "Android Auto",
+    "url": "https://lh3.googleusercontent.com/3Vr1H8EL1F2w2g35zmQkqnbbqfM8e28GxuaTXxkovnYV7ldiiKJVqlnFRlIOfurcfZ7XDVJIJ5ET51yXw8_fJkXIzakq30XzVzI6Og=h120",
+    "link": "https://www.android.com/intl/en_us/auto/"
+  },
+  {
+    "name": "Chromecast",
+    "url": "https://lh3.googleusercontent.com/IW5qFdrQ464i6bDzhjV2xJvvGDsrvssd3hqgNC-Y0VDwnriCuvrzsftsfCEBzXg37G0QJAfGy9te8w8v2jebrajiiviDGB6_y1G2=h120",
+    "link": "https://store.google.com/product/chromecast"
+  },
+  {
+    "name": "Chromebook",
+    "url": "https://lh3.googleusercontent.com/Ucxl6g9AKLX3XmK7an_99LzivIJsXn5cvQdIMM_g4nNFZdULnGa4TH45WVlFu3vKd_c41R28NdjDzCEWgAwb5wjONbIPR4agLFUO1w=h120",
+    "link": "https://www.google.com/chromebook/"
+  },
+  {
+    "name": "Wear OS by Google",
+    "url": "https://lh3.googleusercontent.com/BAwQk6jAMu2s_7Jh-8-_CsvSwEAaeLsVhL8z82VOoEkoaujxll1kYL3Pz4jkYpLbRpUA2fOZTtIppG2gXpsDoijSo1a1M5uPvke3=h120",
+    "link": "https://wearos.google.com/"
+  },
+  {
+    "name": "Messages",
+    "url": "https://lh3.googleusercontent.com/hHWA5otDm9mYUJdAqTjo7wBWj8euY-SdEhCffO7oQzG3zpzxm-YExt1VDB8X6_5gchW_Ye3bfhOJXyOWgcUr94GtgqltKP4IxiH02O-Xzw5A1IHsxiw=h120",
+    "link": "https://messages.google.com/"
+  },
+  {
+    "name": "Lens",
+    "url": "https://lh3.googleusercontent.com/hcfrojgqkbroG2ScJ_n6ofwCdSOkC6Uk-NPWal_0zQuyKcQrNTgoZpe4bbtJOFuI0Sir0JkrQrKAEhlPbiAnM8v9Hr8xtP47T4saBg=h120",
+    "link": "https://lens.google.com/#"
+  },
+  {
+    "name": "News",
+    "url": "https://lh3.googleusercontent.com/u2XGSr0jis3w5sLeuh8UMqGHgtdqPVPi77xYhPJdMO9C41wYUue3EKPJvwp-ovAlTzt3Ux3R4Mww2HlJ31UKre8vz1Cnno-3MxvWtA=h120",
+    "link": "https://news.google.com/"
+  },
+  {
+    "name": "Podcasts",
+    "url": "https://lh3.googleusercontent.com/vnSr97Bu2sI2_h334BHmEn1zTPrtv0hM9MLn3YxkN6JVzmir_VH62GiPIKfwtPBTOQ8xH0XNI40xfPAYbwbJEU-1jG09ovlU0f4S1Q=h120",
+    "link": "https://podcasts.google.com/"
+  },
+  {
+    "name": "YouTube Music",
+    "url": "https://lh3.googleusercontent.com/8bC8ZC9RQ_cJj5lSa8LjCfRClGeSyp4SkN72C0tMSUIqGPVjEpHeUDfAScLNKy82MiXWLBlkpMl4FhJGrGRDhzHxOoXq5v-QSt-rvg=h120",
+    "link": "https://www.youtube.com/musicpremium"
+  },
+  {
+    "name": "YouTube TV",
+    "url": "https://lh3.googleusercontent.com/KTDOhPuoj2uFXQzWV1UoktTwtuucLM49NAFS07-vtX8dCGhSjpxJwumzTuzI6qZyyqLdmZASs3ARnaI3gIae1MYIjaG57KsmUhit2g=h120",
+    "link": "https://tv.youtube.com/?utm_source=gaboutpage&utm_medium=youtubetv&utm_campaign=gabout"
+  },
+  {
+    "name": "YouTube Kids",
+    "url": "https://lh3.googleusercontent.com/UqqZocZvjGksiGtlRkKb5NsuhpQkMLt3A85lMQ81Pms9tSZ3lLpymbAeinPIe5qUJRdmOKqL9InBBVsh6_gK-1QcNGppeUa7owoKgqo=h120",
+    "link": "https://youtube-global.blogspot.com/2015/02/youtube-kids.html"
+  },
+  {
+    "name": "YouTube VR",
+    "url": "https://lh3.googleusercontent.com/IFzg4PMVkpe2yyhZhN_xYRjpLdCM9ZgAzHYMMOGb6ifLhdZDOtgO-J4NUtahscHnO2Wi07UMo5ErPIgdWGNCi0GVh_yNGQgnnfNi7nE=h120",
+    "link": "https://vr.youtube.com/"
+  },
+  {
+    "name": "Snapseed",
+    "url": "https://lh3.googleusercontent.com/oTsTVqWan-UskrnBTBexES9-OwwuQnoV4EtEk3t1Ywt9SZJZp24pdRXbrp0YEalXW_eyFSKSVFEgoMwKcGRbsM6HnxfJbr4RWNAvNxw=h120",
+    "link": "https://play.google.com/store/apps/details?id=com.niksoftware.snapseed&hl=en_US"
+  },
+  {
+    "name": "Digital Wellbeing",
+    "url": "https://lh3.googleusercontent.com/Gv2bjAdDXiaD0ZvvA3ppmC905aIYb4EAVLUkRbYSUvHWepf6G9G4-k_9fNVogA7bmc8qjr9z8V5bLcfo8iBR7SKqaH8kBn3P1hi_tA=h120",
+    "link": "https://play.google.com/store/apps/details?id=com.google.android.apps.wellbeing&hl=en_US"
+  },
+  {
+    "name": "Cars with built&hybull;in",
+    "url": "https://lh3.googleusercontent.com/X7G-hd59XdxQgAu0Pg3jUf5LoAQQqSWjyKZSk0lvDBnRdboJB3f6rLhL9PSJLNy-ONa8vUba3hHAB3dmf35jpCuWWnabyN0BBDYYoXLZf1sMNPthFg=h120",
+    "link": "https://built-in.google/cars/"
+  },
+  {
+    "name": "Podcasts Manager",
+    "url": "https://lh3.googleusercontent.com/vnSr97Bu2sI2_h334BHmEn1zTPrtv0hM9MLn3YxkN6JVzmir_VH62GiPIKfwtPBTOQ8xH0XNI40xfPAYbwbJEU-1jG09ovlU0f4S1Q=h120",
+    "link": "https://podcastsmanager.google.com/"
+  },
+  {
+    "name": "Gboard",
+    "url": "https://lh3.googleusercontent.com/9ks6e2i7ubrVUEkBwpoJeXTceixbWT3ppLdca04jQg6VPMqXiz6B8KEeczJhnRWmjR453_UREmwtS2jP8-yNq-pU5cEDTbEU6Nqb=h120",
+    "link": "https://play.google.com/store/apps/details?id=com.google.android.inputmethod.latin"
+  },
+  {
+    "name": "Forms",
+    "url": "https://lh3.googleusercontent.com/p5lVJAicHuI6Ra6jtpYimNt53JZQNCcN06a-Q4fUaNVFo3cjVisZMY_UwBTg5fv2MUkrbwbfTw70N9-bbTfejp9S8rUNadIhWiqh=h120",
+    "link": "https://www.google.com/forms/about/?utm_source=gaboutpage&utm_medium=formslink&utm_campaign=gabout"
+  },
+  {
+    "name": "Chat",
+    "url": "https://lh3.googleusercontent.com/z3dgQsXgGqfadzIUmpGI_ppolUy7H6fgqIbtW_qzLXcBww0nOby8TEE3e_fW84Qa7zeAwe339f5VLkqRD6jk7Z9sEaVh5Y_yaPG9nw=h120",
+    "link": "https://gsuite.google.com/products/chat/"
+  },
+  {
+    "name": "Expeditions",
+    "url": "https://lh3.googleusercontent.com/TVNK8r0QEiNhXwfjVlziAqFcBQPkuPHKyilz6atnzslwMho1no8n4EJV30tOT0T6y3RXrmCzyiNd74HSYkJPsAk4545WWBxBZgoPxg=h120",
+    "link": "https://www.google.co.in/edu/expeditions/"
+  },
+  {
+    "name": "Tilt Brush",
+    "url": "https://lh3.googleusercontent.com/VdXRrd_xoiTD2oe-7FBLg5HOxC0evZYSk9glkZ9etAT5LNvCfL4tPySadjV9I32Y73wAauBLo6HCv4yTX7G9SYE8NG5-LFwNVBpfZw=h120",
+    "link": "https://www.tiltbrush.com/"
+  },
+  {
+    "name": "Tasks",
+    "url": "https://lh3.googleusercontent.com/3xWy7lTFLEzfX5UeLUd3iLKF_oMwOVb4gKlb__yEcimkl1lBhU0n6u3B34zGI_aTzoHfJq2vrRPBM-ILPOZEuYht9UrzH-5aGJTZ=h120",
+    "link": "https://play.google.com/store/apps/details?id=com.google.android.apps.tasks&hl=en_US"
   },
   {
     "name": "Files",
@@ -163,26 +303,6 @@
     "name": "Find My Device",
     "url": "https://user-images.githubusercontent.com/73958047/220167822-671abc63-9930-4b12-8fbc-a6dcb541a6b2.png",
     "link": "https://www.google.com/android/find"
-  },
-  {
-    "name": "Fit",
-    "url": "https://user-images.githubusercontent.com/73958047/220166968-f7df7bd0-5a15-4085-8ccb-150e1b66ef29.png",
-    "link": "https://play.google.com/store/apps/details?id=com.google.android.apps.fitness&hl=en"
-  },
-  {
-    "name": "Flights",
-    "url": "https://lh3.googleusercontent.com/33fCN1bFbB2G1iGDGzlBd_BAWes-Nlv-Qt8ByRpEBU43Lu_mF6twx5kmmN4OE6Z_Gz6x7qXTStQItO4yGA0eEejKPSmSqPb-xpF-=h120",
-    "link": "https://www.google.com/flights"
-  },
-  {
-    "name": "Fonts",
-    "url": "https://lh3.googleusercontent.com/6nGdwtbmSCuuGF5fSCqvv0f-GOsp927ZXRFxC1NNEqlH-EwAGEqlHXN2rcarUTB7C8Tj8shbcg-9z-CO4XJGTVSaLbT5FPsq0rKET0ZIfWNsj9_f424=h120",
-    "link": "https://www.google.com/fonts"
-  },
-  {
-    "name": "Groups",
-    "url": "https://lh3.googleusercontent.com/j-XIfKqwPWybhyqkxFlF2ArD-XgPk2y41V-bjbf1l7yIm2kh1diwMAFgSFUJCwUob3LkfV_PSlpt0qsLLeVCpBCaiDZ2j5yStmaa-w=h120",
-    "link": "https://groups.google.com/"
   },
   {
     "name": "Health Studies",
@@ -200,34 +320,34 @@
     "link": "https://www.google.com/inputtools/"
   },
   {
-    "name": "Maps",
-    "url": "https://lh3.googleusercontent.com/9NuRdiRepVI3n1txfg7Ky2wWzB3DvXkWABXeFMSn2tzDYYkv8T_RMA9R17fWi0ziUDIDTVJx0JruCzOev37c4dkK9Wrgkeyam3pM8lI=h120",
-    "link": "https://www.google.com/maps/about/"
+    "name": "Marketing Platform",
+    "url": "https://lh3.googleusercontent.com/QFmSDvHe7MgYcFlQF_wNttnmAm4s-y-UN24oPZRoPDiOCjX60ol7yhSa_WiN-NwCmXiafElg33YH4J5wFVy_bAqzseZz1oSNtADw_A=h120",
+    "link": "https://marketingplatform.google.com/"
   },
   {
-    "name": "Meet",
-    "url": "https://lh3.googleusercontent.com/5CsRqfMEP1Rv-PPv9G4962lyEuvb4roSLJHJQWPbmCa51AmvynfoGfoKsKiS87QhX07xQMZAeLp8qoSy7CjVZkXJ1WapQiJkroCeJw=h120",
-    "link": "https://gsuite.google.com/products/meet/"
+    "name": "Merchant Center",
+    "url": "https://lh3.googleusercontent.com/d6Gf-uIYDXxTIV8n0ljiTCt1v1mU3CRmHsAyA4QUtQTYv5RvPAzPbYoa5VyfpZS4vvNOh_vYAXNnoLpHU31c8NTJZIHdUnxQyNI5F_U=h120",
+    "link": "https://www.google.com/retail/merchant-center/"
   },
   {
-    "name": "One",
-    "url": "https://lh3.googleusercontent.com/wbRbWxRbQyojtDDUj_ITsoMZNbSAnroic0AYABmbab8qE-sgODk26wLCYUcJrqW11-I50N3GE6iTCY_Sfa7ud4vMa9fig4YdinEa9w=h120",
-    "link": "https://one.google.com/"
+    "name": "Shopping",
+    "url": "https://lh3.googleusercontent.com/UqZcYFgfFclRU46MshhuCQD79idBZ8hyIe5WkQ1VLzG47w-Mgu6yGriGkL_YiYF2qau5jrufzTNwFp84tw7Lm-f9t2vQLkrECfur=h120",
+    "link": "https://shopping.google.com/u/0/"
   },
   {
-    "name": "Pay",
-    "url": "https://lh3.googleusercontent.com/yemTWtzfavZZqaWs0_ijOcSrLtp93cAfiJA4HqGSpJNYBxe13WWQxeqV7xt7Bdf34Nug2nw2z-a4T85pXURHj8tcOPFh1-l7BvYANqrAXd7zHVQ93x0=h120",
-    "link": "https://pay.google.com/about/"
+    "name": "Street View",
+    "url": "https://lh3.googleusercontent.com/9CAaLlPoQ9YB_HQXK9B8e80czwAhK22t_eA7pxvRHaydwo33SKlVtpccCwGWSj6gR7TPT-W9GJDw0zHdO8vU8vBURBUZ0OVQiaUO0QQ=h120",
+    "link": "https://www.google.com/streetview/earn/"
   },
   {
-    "name": "Photos",
-    "url": "https://lh3.googleusercontent.com/RwVe2Cm1EjeDmYhdTzr179G0ovq_PCxgPzQ92PO-YxTBEFTHWh0L6Ev8FFDWRgRGrE81vwn95tyg9Ey189OO4kllhhpLAMIsGFZ-UKA=h120",
-    "link": "https://www.google.com/photos/about"
+    "name": "Travel",
+    "url": "https://lh3.googleusercontent.com/QsFLnA2p7QlFCy4Rk-TH0XoaWFilCOzzt8FPO58nI_FXh5wQkjWEMpBKMkJxQJMZio9t6kDMpniv3WrWH7Slxe8BrbMvklg-Ht53iw=h120",
+    "link": "https://www.google.com/travel/"
   },
   {
-    "name": "Play",
-    "url": "https://lh3.googleusercontent.com/vWJNEFxN3WY5PYAYjwZ9ycEXMCCiB8EbcFXZxfSv5xkKLw67C2J5qXJTBL9KSPldWmLpVMnucrsDBmPlrf9tMiEJpYNZNcTw_ymlxgc=h120",
-    "link": "https://play.google.com/store?hl=en"
+    "name": "TV",
+    "url": "https://lh3.googleusercontent.com/Q4UDu0hKQgAyUzO0RpJTpTKc2DyaZbU-K96JCJjqKd9_ABetMMpS6LxO6Y7Ypm2CVhCro4n4n9PTF97SlwrSjmJFaHdV-_yDr8MpX1M=h120",
+    "link": "https://tv.google/"
   },
   {
     "name": "Play Books",
@@ -250,29 +370,9 @@
     "link": "https://www.android.com/play-protect/"
   },
   {
-    "name": "Shopping",
-    "url": "https://lh3.googleusercontent.com/UqZcYFgfFclRU46MshhuCQD79idBZ8hyIe5WkQ1VLzG47w-Mgu6yGriGkL_YiYF2qau5jrufzTNwFp84tw7Lm-f9t2vQLkrECfur=h120",
-    "link": "https://shopping.google.com/u/0/"
-  },
-  {
-    "name": "Street View",
-    "url": "https://lh3.googleusercontent.com/9CAaLlPoQ9YB_HQXK9B8e80czwAhK22t_eA7pxvRHaydwo33SKlVtpccCwGWSj6gR7TPT-W9GJDw0zHdO8vU8vBURBUZ0OVQiaUO0QQ=h120",
-    "link": "https://www.google.com/streetview/earn/"
-  },
-  {
-    "name": "TV",
-    "url": "https://lh3.googleusercontent.com/Q4UDu0hKQgAyUzO0RpJTpTKc2DyaZbU-K96JCJjqKd9_ABetMMpS6LxO6Y7Ypm2CVhCro4n4n9PTF97SlwrSjmJFaHdV-_yDr8MpX1M=h120",
-    "link": "https://tv.google/"
-  },
-  {
-    "name": "Tasks",
-    "url": "https://lh3.googleusercontent.com/3xWy7lTFLEzfX5UeLUd3iLKF_oMwOVb4gKlb__yEcimkl1lBhU0n6u3B34zGI_aTzoHfJq2vrRPBM-ILPOZEuYht9UrzH-5aGJTZ=h120",
-    "link": "https://play.google.com/store/apps/details?id=com.google.android.apps.tasks&hl=en_US"
-  },
-  {
-    "name": "Wallet",
-    "url": "https://kstatic.googleusercontent.com/files/4aa2f7ef663ecf9f671bb0017c9a6320c75c4039ae0a318dc149cc07e521c8e5da01f6b8f48b7e79c71bac8809e8bf5f75251244665b0bc9c62b434a3f8d9044",
-    "link": "https://wallet.google/"
+    "name": "Sites",
+    "url": "https://lh3.googleusercontent.com/mjVS_Izc6fGAvuaT0v--gb2so5mZvAbI5EUMUB41cWB7tpy81trBCR8rIlj8NoKgPzDWGN-Hs97NlW0T9W57YJ5z9A8QQWwXUYa_Zg=h120",
+    "link": "https://sites.google.com/new"
   },
   {
     "name": "Workspace",
@@ -280,164 +380,9 @@
     "link": "https://workspace.google.com/"
   },
   {
-    "name": "Keep",
-    "url": "https://lh3.googleusercontent.com/9TzWtxtT-9Vrlwa8SXTSKhfl91Ndy4hU-1uLE9-hFsVSHARAOlFEdFExVR4QCegJ-KUBTSlJm3DZY6g31sbVrUT_HfxQvX_7WgLp=h120",
-    "link": "https://www.google.com/keep/"
-  },
-  {
-    "name": "Lens",
-    "url": "https://lh3.googleusercontent.com/hcfrojgqkbroG2ScJ_n6ofwCdSOkC6Uk-NPWal_0zQuyKcQrNTgoZpe4bbtJOFuI0Sir0JkrQrKAEhlPbiAnM8v9Hr8xtP47T4saBg=h120",
-    "link": "https://lens.google.com/#"
-  },
-  {
-    "name": "Messages",
-    "url": "https://lh3.googleusercontent.com/hHWA5otDm9mYUJdAqTjo7wBWj8euY-SdEhCffO7oQzG3zpzxm-YExt1VDB8X6_5gchW_Ye3bfhOJXyOWgcUr94GtgqltKP4IxiH02O-Xzw5A1IHsxiw=h120",
-    "link": "https://messages.google.com/"
-  },
-  {
-    "name": "Nest",
-    "url": "https://lh3.googleusercontent.com/WdC-o7ZcZL5WALPSmfUC8H4oYhlhqm1DV45CtHqV06DTRR0rE_P9JXi-J2KXLd9CTyHt_t3ehUm1o_AMltgfAGbvQDku8jsZt0kBSA=h120",
-    "link": "https://store.google.com/category/connected_home"
-  },
-  {
-    "name": "News",
-    "url": "https://lh3.googleusercontent.com/u2XGSr0jis3w5sLeuh8UMqGHgtdqPVPi77xYhPJdMO9C41wYUue3EKPJvwp-ovAlTzt3Ux3R4Mww2HlJ31UKre8vz1Cnno-3MxvWtA=h120",
-    "link": "https://news.google.com/"
-  },
-  {
-    "name": "PhotoScan",
-    "url": "https://lh3.googleusercontent.com/AqBNM_Xi-raRYPTac9ym_mBnCKXULqn7Pgw0UNavMe-0_Qs-A2_y9vSNQGQyUfFos2G_jyAwOm1ALwBt-0X4uWEBTr9Qe8fHZybWOA=h120",
-    "link": "https://www.google.com/photos/scan/"
-  },
-  {
-    "name": "Pixel",
-    "url": "https://lh3.googleusercontent.com/kroer1kpwSe3j-lIfPnE7Q3MVaCoJVF8atjdh0VtGDWCz2ulLejVsDh2k6a6VUgpUFQ8qRMHMEX7bsr2jTrLXhZR_ETbqILDf-qfkk0=h120",
-    "link": "https://store.google.com/category/phones"
-  },
-  {
-    "name": "Pixel Buds",
-    "url": "https://lh3.googleusercontent.com/23ispX_lvsTfMdqVu6ra84IGV85IwhGPQyogx4AOuECIOQYVFewlJ0p4XkFbUoAJXDlc4LwopHv1SNEslf1B4XCDZg0P-85zw3DQ=h120",
-    "link": "https://store.google.com/product/pixel_buds"
-  },
-  {
-    "name": "Pixelbook",
-    "url": "https://lh3.googleusercontent.com/SP5F8XlkxjIfM3uEu47BolKEBwkqWrOfyvwywHut48p0AZgedzyhcoevSaJCEBUJNXvy7dplTwI3s6dizxE1lNXFa-RkpU9nkIAmnSU=h120",
-    "link": "https://store.google.com/category/laptops_tablets"
-  },
-  {
-    "name": "Scholar",
-    "url": "https://lh3.googleusercontent.com/i7W2EWxINNLwgzMNOveR5SNQHKisftbymepppsfQEA1whmCJV0H0cauacdN-I0RfEc7Kz6PJsLAlw6zR97E1rpdxVRSGP_Y2UtFOGlQ=h120",
-    "link": "https://scholar.google.com/intl/en-US/scholar/about.html"
-  },
-  {
-    "name": "Search",
-    "url": "https://lh3.googleusercontent.com/_RS8nTX8HLPW-dDr374dEdQTaYn-7LI8HVVk0INaAmk7t8MYZKDssvGnep-GwPR94LJPxqq6UDnbm4tonioTpkl4Kqr6-k-670teZA=h120",
-    "link": "https://www.google.com/search/about/"
-  },
-  {
-    "name": "Sites",
-    "url": "https://lh3.googleusercontent.com/mjVS_Izc6fGAvuaT0v--gb2so5mZvAbI5EUMUB41cWB7tpy81trBCR8rIlj8NoKgPzDWGN-Hs97NlW0T9W57YJ5z9A8QQWwXUYa_Zg=h120",
-    "link": "https://sites.google.com/new"
-  },
-  {
-    "name": "Slides",
-    "url": "https://lh3.googleusercontent.com/aD5GNhlaU2d70gmSy5ioL1dMSUZN9cHDWPLkIBLhCsJ-BgcGUm-PD6o8XExZcx1i2iZV6PH0P8v3ceg0x7Tzd_OZ5FV0nXs5mX15sgA=h120",
-    "link": "https://www.google.com/slides/about/?utm_source=gaboutpage&utm_medium=slideslink&utm_campaign=gabout"
-  },
-  {
-    "name": "Snapseed",
-    "url": "https://lh3.googleusercontent.com/oTsTVqWan-UskrnBTBexES9-OwwuQnoV4EtEk3t1Ywt9SZJZp24pdRXbrp0YEalXW_eyFSKSVFEgoMwKcGRbsM6HnxfJbr4RWNAvNxw=h120",
-    "link": "https://play.google.com/store/apps/details?id=com.niksoftware.snapseed&hl=en_US"
-  },
-  {
-    "name": "Tilt Brush",
-    "url": "https://lh3.googleusercontent.com/VdXRrd_xoiTD2oe-7FBLg5HOxC0evZYSk9glkZ9etAT5LNvCfL4tPySadjV9I32Y73wAauBLo6HCv4yTX7G9SYE8NG5-LFwNVBpfZw=h120",
-    "link": "https://www.tiltbrush.com/"
-  },
-  {
-    "name": "Translate",
-    "url": "https://lh3.googleusercontent.com/vNgpLTvnDUr6-QM8s4OuuESGDXs_brbGoPR-7vfwdxQI7M4MVFV0CC_Hil4qRDSp4P66ik85fdv09jKn89kDAJVknIbd6wkl0zGQJQ=h120",
-    "link": "https://translate.google.com/about"
-  },
-  {
-    "name": "Travel",
-    "url": "https://lh3.googleusercontent.com/QsFLnA2p7QlFCy4Rk-TH0XoaWFilCOzzt8FPO58nI_FXh5wQkjWEMpBKMkJxQJMZio9t6kDMpniv3WrWH7Slxe8BrbMvklg-Ht53iw=h120",
-    "link": "https://www.google.com/travel/"
-  },
-  {
-    "name": "Voice",
-    "url": "https://lh3.googleusercontent.com/sfQ-WzgiZ1asQ0K88_k8UG53n8u4ERdLJsZI-lTyHmL_p2f4ViSo6g10vYrjn34HR6sfjZGvs6xpRncjw4PT9u9iD8tC4CTDBIT4sD4=h120",
-    "link": "https://voice.google.com/"
-  },
-  {
-    "name": "Waze",
-    "url": "https://lh3.googleusercontent.com/ra4Ks1fsGsLSlzWoAU-9Ls2V5vEFCsA9thbtIkCHNFYeLC-ver57N4-GCGFZ-GBGw6uQkYPkvobF7dzM7udYmcTs4wfDTljzskEZAQ=h120",
-    "link": "https://www.waze.com/"
-  },
-  {
-    "name": "Wear OS by Google",
-    "url": "https://lh3.googleusercontent.com/BAwQk6jAMu2s_7Jh-8-_CsvSwEAaeLsVhL8z82VOoEkoaujxll1kYL3Pz4jkYpLbRpUA2fOZTtIppG2gXpsDoijSo1a1M5uPvke3=h120",
-    "link": "https://wearos.google.com/"
-  },
-  {
-    "name": "YouTube",
-    "url": "https://lh3.googleusercontent.com/I95wjYii8vhFSSx-aSYdh2hPAMjgZkA9yjarSQoOd98COwOxkAVn_dulBcTcfbsa7Limy6IKX6G95ep6OB6y2yMLMiX0YEqFx3KQHQ=h120",
-    "link": "https://www.youtube.com/yt/about/"
-  },
-  {
-    "name": "YouTube Kids",
-    "url": "https://lh3.googleusercontent.com/UqqZocZvjGksiGtlRkKb5NsuhpQkMLt3A85lMQ81Pms9tSZ3lLpymbAeinPIe5qUJRdmOKqL9InBBVsh6_gK-1QcNGppeUa7owoKgqo=h120",
-    "link": "https://youtube-global.blogspot.com/2015/02/youtube-kids.html"
-  },
-  {
-    "name": "YouTube Music",
-    "url": "https://lh3.googleusercontent.com/8bC8ZC9RQ_cJj5lSa8LjCfRClGeSyp4SkN72C0tMSUIqGPVjEpHeUDfAScLNKy82MiXWLBlkpMl4FhJGrGRDhzHxOoXq5v-QSt-rvg=h120",
-    "link": "https://www.youtube.com/musicpremium"
-  },
-  {
-    "name": "YouTube TV",
-    "url": "https://lh3.googleusercontent.com/KTDOhPuoj2uFXQzWV1UoktTwtuucLM49NAFS07-vtX8dCGhSjpxJwumzTuzI6qZyyqLdmZASs3ARnaI3gIae1MYIjaG57KsmUhit2g=h120",
-    "link": "https://tv.youtube.com/?utm_source=gaboutpage&utm_medium=youtubetv&utm_campaign=gabout"
-  },
-  {
-    "name": "YouTube VR",
-    "url": "https://lh3.googleusercontent.com/IFzg4PMVkpe2yyhZhN_xYRjpLdCM9ZgAzHYMMOGb6ifLhdZDOtgO-J4NUtahscHnO2Wi07UMo5ErPIgdWGNCi0GVh_yNGQgnnfNi7nE=h120",
-    "link": "https://vr.youtube.com/"
-  },
-  {
-    "name": "AdMob",
-    "url": "https://lh3.googleusercontent.com/6cr6PdE9s0J1ovFNm38uf-dwcOP--68QMWey603BCUah-QcO0gL0TvyqmTBYIgNnJfk8AEgISH_xpw_zd8FNao0jA14Q5MQ7p-eeIto=h120",
-    "link": "https://www.google.com/admob/?utm_source=internal&utm_medium=et&utm_term=goo.gl%2FPZaclC&utm_content=midpage&utm_campaign=googlehome%26producticon"
-  },
-  {
-    "name": "AdSense",
-    "url": "https://lh3.googleusercontent.com/kSVhJx6xNAhqot_OjnzSAp8kyKtL9nW65nqObijdjYcNfqDn4bLx-1g_1h4rz0maXRwJp6K4AEDCQi8dOg_tn_Y80R3NjNXbUN6Hag=h120",
-    "link": "https://www.google.com/adsense/start/?utm_source=internal&utm_medium=et&utm_campaign=app_switcher_ev_mr&utm_content=learn_more"
-  },
-  {
-    "name": "Analytics",
-    "url": "https://lh3.googleusercontent.com/oLcLMz42MUjK9Iv4M4YSOfBIHcxUh9dck3PN8kT8FR_z9_mUlWzyf4JHqPavPsKHJ7FR2rlGZf51vgEv1k5i0QQai4_J0ffYkIFbaJA=h120",
-    "link": "https://www.google.com/analytics/?utm_medium=referral-internal&utm_source=google-products&utm_campaign=product-cross-promo&utm_content=analytics-card"
-  },
-  {
-    "name": "Android",
-    "url": "https://lh3.googleusercontent.com/OSQqNbZm7pYKt3P0rSr0WN51Qh3NCo8BSJ37es08pTyoHjH9IMIEdw31GxuCp_qXFpqvJwXqeLRbZdrOvv-kFB-rTaHHfQj0_fDE=h120",
-    "link": "https://enterprise.google.com/android/"
-  },
-  {
-    "name": "Blogger",
-    "url": "https://lh3.googleusercontent.com/JtYUq9HfkkOryxudgp34oqI8qFu9a6mmL64OXjcDX7mfEwcX_pxmTdurvxssofY4swTY2c_M1Kk5o1a863CGTiBZkxxuYXfjiNgz=h120",
-    "link": "https://www.blogger.com/features"
-  },
-  {
-    "name": "Business Profile",
-    "url": "https://lh3.googleusercontent.com/moWtYpo1G3n-1QfF5rNSy7n2IIQs785-H9DStefngR0kWMsmnPkzMu-SKH3eUxHVddekMttIA5olrn_wo3p50z04NyRZYPHYBc2cxvE=h120",
-    "link": "https://www.google.com/business/go/businessprofile/"
-  },
-  {
     "name": "Chrome Enterprise",
-    "url": "https://lh3.googleusercontent.com/6xlGJ-dkwosfUisVYzRKNE1Wcr5QDDfRfZ4bXktF-Nn0J0ucHd_JI1wjXTls7lt5mvJvvcvtrNc0MESF98dAx6ivasEsZNxoaUZU-Q=h120",
-    "link": "https://chromeenterprise.google/"
+    "url": "https://lh3.googleusercontent.com/osfLtqeBdEJUR4Rc-zmj4r5eqSd0GCJaB8wihnbgYfx_UBKhS1PMKwZlWXw6FqtjLktNqWJTcpDBMp5boZlSD2nkjeOloEA6VhJKlg=h120",
+    "link": "https://chrome.google.com/webstore/category/apps"
   },
   {
     "name": "Chrome Remote Desktop",
@@ -445,19 +390,54 @@
     "link": "https://remotedesktop.google.com/"
   },
   {
+    "name": "Pixel for Business",
+    "url": "https://lh3.googleusercontent.com/TlJWqgqxCA0it6tZ-n8OCkn-Om5nIEy19gQd-5UXCSpECGKSBNksOSSRa-fU6-DTcvHwnqzlnKc4A5k882qcSW15NTY2PHyNJz7b=h120",
+    "link": "https://pixel.google/business/"
+  },
+  {
+    "name": "Tag Manager",
+    "url": "https://lh3.googleusercontent.com/uXQAnb9kkOOscMDg_kwY2RSfnmvhEwiXPcoSYS2EV9KP7nCfwvACXo8fEuUK5AJh7Qyyr-M3CpB-51s01C0ALvx647CfjDH9xrQs=h120",
+    "link": "https://www.google.com/tagmanager/"
+  },
+  {
     "name": "Ad Manager",
     "url": "https://user-images.githubusercontent.com/73958047/220162055-ad963f5a-2c6d-4c4b-a3e1-5a3749a5479b.png",
     "link": "https://admanager.google.com/home/"
   },
   {
-    "name": "Assistant",
-    "url": "https://lh3.googleusercontent.com/Iyn9yCCDxgHqvjX5jMZ_looun-kL0Sk60FraoMU5-JQG2WstyK6QNzj3JguQRbvQmWqVBSoO88Oh1kGQAoXMPkIIEF0pQrvXL52XXw=h120",
-    "link": "https://assistant.google.com/business/"
+    "name": "Waze Local",
+    "url": "https://lh3.googleusercontent.com/hzvgfKA6vD6zG7BEkFYBynAz6J_l5mz8BdTD6I8KGhgpZ9UTrM26PZ569Ml1GhEpNtZ9hmiMEgdEM7UaEL-FPTrSHJ_RvqyHiiB7VA=h120",
+    "link": "https://biz.waze.com/"
   },
   {
-    "name": "Cloud",
-    "url": "https://lh3.googleusercontent.com/UnRPa94dWPxyhH3faaGqaEQF5uWqRZ2zSARkm18zlnqntO3-bar_Cffb-W5CZdnE7mPWDo7RTqKFJeuMhjYz3eInIpzwiqF9Yxt3JQ=h120",
-    "link": "https://cloud.google.com/"
+    "name": "Trends",
+    "url": "https://lh3.googleusercontent.com/YT2zmWq_pcZPZpRn6l0i6CuvT07S0DAiBMXWbmW0HQRO47aTDzvAA_pOvYAXPxuJkm8wKcskSkY7Mcw0x0lT1ZBpKLadvSt3ClEq1Q=h120",
+    "link": "https://www.google.com/trends/"
+  },
+  {
+    "name": "Web Designer",
+    "url": "https://lh3.googleusercontent.com/DQ8lLDfcUJCtsTiDw6PlvD8GaNTYzhlS8sZL4_TMTOvkH3bgh0CvoxaKCEU-uvqoCUiE0Yp6nQWTeiNqYuW0v18_XRejSBRyqn2LA-c=h120",
+    "link": "https://www.google.com/webdesigner/"
+  },
+  {
+    "name": "Google for Retail",
+    "url": "https://lh3.googleusercontent.com/wS72vstdNigZfIWHoQUkP8Ir6-NqLg8jEYCYmhW6L1NuMvjQmtr72QSl6r-QXoL8AXkSti6BIPf1SWGYypymLuodxzF6gFRirz1Ndg=h120",
+    "link": "https://www.google.com/retail/solutions/"
+  },
+  {
+    "name": "Search Console",
+    "url": "https://lh3.googleusercontent.com/xDakliA_6hjirY-kSiTQFdrVRcRxYDMDdVWFOQtp97xidbk-At7EwGfV7YQqzSgbpfmpBw6etaT20SIzenYlyyretLrgN1PbR7_OTos=h120",
+    "link": "https://www.google.com/webmasters/tools/home?hl=en"
+  },
+  {
+    "name": "Business Profile",
+    "url": "https://lh3.googleusercontent.com/moWtYpo1G3n-1QfF5rNSy7n2IIQs785-H9DStefngR0kWMsmnPkzMu-SKH3eUxHVddekMttIA5olrn_wo3p50z04NyRZYPHYBc2cxvE=h120",
+    "link": "https://www.google.com/business/go/businessprofile/"
+  },
+  {
+    "name": "Business Messages",
+    "url": "https://user-images.githubusercontent.com/73958047/220165955-1b15e5d5-2adb-40d7-bcc6-81d032db58cf.png",
+    "link": "https://developers.google.com/business-communications/business-messages/guides"
   },
   {
     "name": "Digital Garage",
@@ -480,119 +460,24 @@
     "link": "https://enterprise.google.com/maps/products/mapsapi.html"
   },
   {
-    "name": "Marketing Platform",
-    "url": "https://lh3.googleusercontent.com/QFmSDvHe7MgYcFlQF_wNttnmAm4s-y-UN24oPZRoPDiOCjX60ol7yhSa_WiN-NwCmXiafElg33YH4J5wFVy_bAqzseZz1oSNtADw_A=h120",
-    "link": "https://marketingplatform.google.com/"
+    "name": "TensorFlow",
+    "url": "https://lh3.googleusercontent.com/zXsXmLHvPup2_97k_3j0vytWb8bYxhOXrm4nXS1MJJkuulYiIzv_3-8NJ-9D4P2DjrdfGHmIChQmWMllcLYvAgX9uEUDDclXe-9UbA=h120",
+    "link": "https://www.tensorflow.org/"
   },
   {
-    "name": "Meet",
-    "url": "https://lh3.googleusercontent.com/5CsRqfMEP1Rv-PPv9G4962lyEuvb4roSLJHJQWPbmCa51AmvynfoGfoKsKiS87QhX07xQMZAeLp8qoSy7CjVZkXJ1WapQiJkroCeJw=h120",
-    "link": "https://gsuite.google.com/products/meet/"
+    "name": "Web",
+    "url": "https://lh3.googleusercontent.com/NPHcoakvnrr05qwxryq8qQ-PkSYZz8jO-O3N6JncD9IfF_JVqncoV3q1ffuKN0G6GOxElA0h7H576HpSgKsIWjO4x6CKwdwWBy57Yg=h120",
+    "link": "https://developers.google.com/web/"
   },
   {
-    "name": "Merchant Center",
-    "url": "https://lh3.googleusercontent.com/d6Gf-uIYDXxTIV8n0ljiTCt1v1mU3CRmHsAyA4QUtQTYv5RvPAzPbYoa5VyfpZS4vvNOh_vYAXNnoLpHU31c8NTJZIHdUnxQyNI5F_U=h120",
-    "link": "https://www.google.com/retail/merchant-center/"
-  },
-  {
-    "name": "Podcasts Manager",
-    "url": "https://lh3.googleusercontent.com/vnSr97Bu2sI2_h334BHmEn1zTPrtv0hM9MLn3YxkN6JVzmir_VH62GiPIKfwtPBTOQ8xH0XNI40xfPAYbwbJEU-1jG09ovlU0f4S1Q=h120",
-    "link": "https://podcastsmanager.google.com/"
-  },
-  {
-    "name": "Trends",
-    "url": "https://lh3.googleusercontent.com/YT2zmWq_pcZPZpRn6l0i6CuvT07S0DAiBMXWbmW0HQRO47aTDzvAA_pOvYAXPxuJkm8wKcskSkY7Mcw0x0lT1ZBpKLadvSt3ClEq1Q=h120",
-    "link": "https://www.google.com/trends/"
-  },
-  {
-    "name": "Web Designer",
-    "url": "https://lh3.googleusercontent.com/DQ8lLDfcUJCtsTiDw6PlvD8GaNTYzhlS8sZL4_TMTOvkH3bgh0CvoxaKCEU-uvqoCUiE0Yp6nQWTeiNqYuW0v18_XRejSBRyqn2LA-c=h120",
-    "link": "https://www.google.com/webdesigner/"
-  },
-  {
-    "name": "Workspace",
-    "url": "https://lh3.googleusercontent.com/D0rrmIv7RPaW63-FTFU5gYMorynKSE6IZQA8H0wc46x4_6rg_Hlw-3lVlAN9n2JdmZYYObdHJhIOpW4MRV82Xgm6NevWWg2kdJaH5LA=h120",
-    "link": "https://workspace.google.com/"
-  },
-  {
-    "name": "Google for Retail",
-    "url": "https://lh3.googleusercontent.com/wS72vstdNigZfIWHoQUkP8Ir6-NqLg8jEYCYmhW6L1NuMvjQmtr72QSl6r-QXoL8AXkSti6BIPf1SWGYypymLuodxzF6gFRirz1Ndg=h120",
-    "link": "https://www.google.com/retail/solutions/"
-  },
-  {
-    "name": "Pixel for Business",
-    "url": "https://lh3.googleusercontent.com/TlJWqgqxCA0it6tZ-n8OCkn-Om5nIEy19gQd-5UXCSpECGKSBNksOSSRa-fU6-DTcvHwnqzlnKc4A5k882qcSW15NTY2PHyNJz7b=h120",
-    "link": "https://pixel.google/business/"
-  },
-  {
-    "name": "Search Console",
-    "url": "https://lh3.googleusercontent.com/xDakliA_6hjirY-kSiTQFdrVRcRxYDMDdVWFOQtp97xidbk-At7EwGfV7YQqzSgbpfmpBw6etaT20SIzenYlyyretLrgN1PbR7_OTos=h120",
-    "link": "https://www.google.com/webmasters/tools/home?hl=en"
-  },
-  {
-    "name": "Tag Manager",
-    "url": "https://lh3.googleusercontent.com/uXQAnb9kkOOscMDg_kwY2RSfnmvhEwiXPcoSYS2EV9KP7nCfwvACXo8fEuUK5AJh7Qyyr-M3CpB-51s01C0ALvx647CfjDH9xrQs=h120",
-    "link": "https://www.google.com/tagmanager/"
-  },
-  {
-    "name": "Waze Local",
-    "url": "https://lh3.googleusercontent.com/hzvgfKA6vD6zG7BEkFYBynAz6J_l5mz8BdTD6I8KGhgpZ9UTrM26PZ569Ml1GhEpNtZ9hmiMEgdEM7UaEL-FPTrSHJ_RvqyHiiB7VA=h120",
-    "link": "https://biz.waze.com/"
-  },
-  {
-    "name": "AdMob",
-    "url": "https://lh3.googleusercontent.com/nsD1ZhkyNsB-cMFAU9sovMOVekbOUzks1uFsAQ3myQ1DZEBFmU94PDKWsCPGqo5dvJY0l2n0_LLICmyqk99IoJLmRpIPch21QGa4dQ=h120",
-    "link": "https://developers.google.com/admob"
-  },
-  {
-    "name": "Analytics",
-    "url": "https://lh3.googleusercontent.com/0Gv_C5T6me_K5BmEMj3pboh6oRUSzCNVYfo3MvyrSGra7Gk72XDXn-PdU2XMNwWfqguM_espXmLBbYCNDkD_hL0L172h0lKnoGIJlg=h120",
-    "link": "https://developers.google.com/analytics"
-  },
-  {
-    "name": "Android",
-    "url": "https://lh3.googleusercontent.com/8-8c0-eOE_IwNBcLp9SQGZ0r51WUGA8EFf9Uc8CG2TTtdXVVfxFSiFLUx4LOgroKU5M9DCm3aFCYgkcXDPYb7NpKZkH7ttQGwzPFEAA=h120",
-    "link": "https://developer.android.com/"
-  },
-  {
-    "name": "Business Messages",
-    "url": "https://user-images.githubusercontent.com/73958047/220165955-1b15e5d5-2adb-40d7-bcc6-81d032db58cf.png",
-    "link": "https://developers.google.com/business-communications/business-messages/guides"
-  },
-  {
-    "name": "Exposure Notifications",
-    "url": "https://lh3.googleusercontent.com/BAdl6REglGY2I2v6M3ETITNCpgS4Y8ac0hJtEQh6o8ggV776HEb3Lmw7REmTQmTon5B8s0dB-tHBYwuosM1V0MwXR5tMWChtAOwu-hOQWQTn7xWIUw=h120",
-    "link": "https://www.google.com/covid19/exposurenotifications/"
-  },
-  {
-    "name": "Firebase",
-    "url": "https://lh3.googleusercontent.com/qxRgIf3Uxj9_dZHnmBqqals8VdtoZxxj6ES8uS6TSmSqyxz5ROq_EYsUpwfsOwuLH0_cbJjLhxYDfeyhU9rTITn6psVRO5hC-U-2jWg=h120",
-    "link": "https://firebase.google.com/"
-  },
-  {
-    "name": "Flutter",
-    "url": "https://lh3.googleusercontent.com/Vc5IMVbtKYyJMz02LfzlqzFzMGtgiGgcIqNCw7TRPwz0uFVHl81Ee3ct4Se4hkZc3voljmj0ZfsNw6FHvxlTe1hhWZO2UAAMTqTLNQ=h120",
-    "link": "https://flutter.dev/"
+    "name": "Android Lorem ipsum dolor sit amet",
+    "url": "https://lh3.googleusercontent.com/Fj7BDsllcpNT8ZZm0IHo698tYteLYqoy1i2Sq_16wJhkbcrltBXRbdyzT_XRYHdsbwcv3MLcvO8Cey0b1Zhy2ywD9NvnMd43IYs0Aw=h120",
+    "link": "https://www.android.com/intl/en_us/"
   },
   {
     "name": "Ads",
     "url": "https://lh3.googleusercontent.com/Z-Rp52gzHad8aF9zLoyZ_DB2A2wQ6KQX-8v52TxtABcje9ZUma5oOoXi7S1E8nqpa9hqsAbzZgOOvbuj3ie8ZA8Z2DNNWHpUxS1-Dw=h120",
     "link": "https://developers.google.com/google-ads"
-  },
-  {
-    "name": "Cloud",
-    "url": "https://lh3.googleusercontent.com/UnRPa94dWPxyhH3faaGqaEQF5uWqRZ2zSARkm18zlnqntO3-bar_Cffb-W5CZdnE7mPWDo7RTqKFJeuMhjYz3eInIpzwiqF9Yxt3JQ=h120",
-    "link": "https://cloud.google.com/"
-  },
-  {
-    "name": "Maps Platform",
-    "url": "https://lh3.googleusercontent.com/2qz9gwasYkOhPEumfqd3_x8HiiRu6fIQR1d-1DRAV8qfkqmQx7Rygzohal7DXbB-urTun2B0thBnpY3BRfqXnJOm4b9QQFk3L4VK=h120",
-    "link": "https://enterprise.google.com/maps/products/mapsapi.html"
-  },
-  {
-    "name": "Pay",
-    "url": "https://lh3.googleusercontent.com/Y_RIPksKHkS40-gfvEIYDXagpGaVgspfjOJOaFXRSI2HFKxDm568DIhGy8QQgqYCITyecRpssdMqnqw0op9AaP0wE-3QkrPTAB6bTMMmJNPriqntq7o=h120",
-    "link": "https://developers.google.com/pay"
   },
   {
     "name": "Play",
@@ -605,23 +490,33 @@
     "link": "https://developers.google.com/interactive-media-ads"
   },
   {
-    "name": "Search",
+    "name": "Cloud",
+    "url": "https://lh3.googleusercontent.com/UnRPa94dWPxyhH3faaGqaEQF5uWqRZ2zSARkm18zlnqntO3-bar_Cffb-W5CZdnE7mPWDo7RTqKFJeuMhjYz3eInIpzwiqF9Yxt3JQ=h120",
+    "link": "https://cloud.google.com/"
+  },
+  {
+    "name": "Pay",
+    "url": "https://lh3.googleusercontent.com/Y_RIPksKHkS40-gfvEIYDXagpGaVgspfjOJOaFXRSI2HFKxDm568DIhGy8QQgqYCITyecRpssdMqnqw0op9AaP0wE-3QkrPTAB6bTMMmJNPriqntq7o=h120",
+    "link": "https://developers.google.com/pay"
+  },
+  {
+    "name": "Firebase",
+    "url": "https://lh3.googleusercontent.com/qxRgIf3Uxj9_dZHnmBqqals8VdtoZxxj6ES8uS6TSmSqyxz5ROq_EYsUpwfsOwuLH0_cbJjLhxYDfeyhU9rTITn6psVRO5hC-U-2jWg=h120",
+    "link": "https://firebase.google.com/"
+  },
+  {
+    "name": "Flutter",
+    "url": "https://lh3.googleusercontent.com/Vc5IMVbtKYyJMz02LfzlqzFzMGtgiGgcIqNCw7TRPwz0uFVHl81Ee3ct4Se4hkZc3voljmj0ZfsNw6FHvxlTe1hhWZO2UAAMTqTLNQ=h120",
+    "link": "https://flutter.dev/"
+  },
+  {
+    "name": "Dev Ads",
+    "url": "https://lh3.googleusercontent.com/Z-Rp52gzHad8aF9zLoyZ_DB2A2wQ6KQX-8v52TxtABcje9ZUma5oOoXi7S1E8nqpa9hqsAbzZgOOvbuj3ie8ZA8Z2DNNWHpUxS1-Dw=h120",
+    "link": "https://developers.google.com/google-ads"
+  },
+  {
+    "name": "Dev Search",
     "url": "https://lh3.googleusercontent.com/gRnEKp2-zZSQepcLE4cSa3IdUqkZBTlvmWnmaYdPh9ERKmjx02WLRWxJMALPOGIwQEl4FgQZcogJERKTDx1JrZLVbdg_---gFavOqw=h120",
     "link": "https://developers.google.com/search"
-  },
-  {
-    "name": "TensorFlow",
-    "url": "https://lh3.googleusercontent.com/zXsXmLHvPup2_97k_3j0vytWb8bYxhOXrm4nXS1MJJkuulYiIzv_3-8NJ-9D4P2DjrdfGHmIChQmWMllcLYvAgX9uEUDDclXe-9UbA=h120",
-    "link": "https://www.tensorflow.org/"
-  },
-  {
-    "name": "Web",
-    "url": "https://lh3.googleusercontent.com/NPHcoakvnrr05qwxryq8qQ-PkSYZz8jO-O3N6JncD9IfF_JVqncoV3q1ffuKN0G6GOxElA0h7H576HpSgKsIWjO4x6CKwdwWBy57Yg=h120",
-    "link": "https://developers.google.com/web/"
-  },
-  {
-    "name": "YouTube",
-    "url": "https://lh3.googleusercontent.com/wz7zNnjtq287NYmYMvqxQcIQ8YkLJCtl1HtHbXYkLy8lQOeNUU1vPPIXI6BqlYW1iTHMyB4_RAMUzCTOc-O5RNGyoYN1FTSA93MJ=h120",
-    "link": "https://developers.google.com/youtube"
   }
 ]
